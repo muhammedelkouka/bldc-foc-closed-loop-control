@@ -1,0 +1,7 @@
+Position:
+  - ["", "Pos (Pulses)", ["count_in_cpr", "pos_estimate_counts"]]
+  - ["", "Pos (Revolutions)", ["pos_estimate"]]
+
+Velocity:
+  - ["", "Vel (Pulses/Sec)", ["vel_estimate_counts"]]
+  - ["", "Vel (Revolutions/Sec)", ["vel_estimate"]]
